@@ -1,6 +1,6 @@
 Streamify - A Music Streaming Analytics Dashboard
 
-(Live link)[https://streamify-dashboard-phi.vercel.app/]
+Live link: streamify-dashboard-phi.vercel.app/
 
 ## Getting Started
 
