@@ -36,7 +36,7 @@ export default function TopSongs({ topSongsData }: TopSongsProps) {
           />
           <ChartTooltip
             cursor={false}
-            content={<ChartTooltipContent hideLabel />}
+            content={<ChartTooltipContent className="bg-white" hideLabel />}
           />
           <Bar dataKey="streams" fill="#3B82F6" radius={8} />
         </BarChart>

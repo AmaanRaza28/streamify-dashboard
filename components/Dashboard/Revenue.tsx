@@ -67,7 +67,7 @@ export function Revenue() {
           <PieChart>
             <ChartTooltip
               cursor={false}
-              content={<ChartTooltipContent hideLabel />}
+              content={<ChartTooltipContent className="bg-white" hideLabel />}
             />
             <Pie
               data={chartData}
